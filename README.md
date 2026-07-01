@@ -1,1 +1,1 @@
-# bash_scripts
+# scripts hechos en bash para linux
